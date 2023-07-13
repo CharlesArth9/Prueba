@@ -1,0 +1,27 @@
+
+j
+:src/main/java/com/alkomprar/steps/PaginaPrincipalStep.java,c\d\cd873e28b5de30ca6cfbb7271601a459d8dfd762
+v
+Fsrc/main/java/com/alkomprar/pageobjects/PaginaPrincipalPageObject.java,0\1\01401a189cae13e1f95fcc274b1a0502dcc49052
+a
+1src/main/java/com/alkomprar/utils/DatosExcel.java,f\c\fc4a4a7e365ef82fd5171d1834e3ce18b91d736c
+n
+>src/main/java/com/alkomprar/pageobjects/CarritoPageObject.java,1\b\1bf86348cf5afbfe18380d18b42ec016400fd4d8
+b
+2src/main/java/com/alkomprar/steps/CarritoStep.java,7\c\7c71012c3bea6ba7e6873c4e699985199d5a75bd
+g
+7src/test/java/com/alkomprar/runners/RegistroRunner.java,5\a\5a71c6af5a9545c11fa3781f0c74e592f7298322
+w
+Gsrc/test/java/com/alkomprar/stepdefinitions/RegistroStepDefinition.java,a\7\a707ac78f3aa909ac1b0a54bc83ee5407a580f9d
+o
+?src/main/java/com/alkomprar/pageobjects/RegistroPageObject.java,7\f\7f9ca5abcc8d73859b2627e6d90debdfab4dde98
+m
+=src/test/java/com/alkomprar/runners/CarritoComprasRunner.java,5\6\56fb5fe3001f936cd22ea88524a939ac6c7ca1b2
+}
+Msrc/test/java/com/alkomprar/stepdefinitions/CarritoComprasStepDefinition.java,e\c\ec28e43e1a9a802ca8d90856138ce7ea92cff768
+c
+3src/main/java/com/alkomprar/steps/BusquedaStep.java,b\7\b74799c612e188bf47cb3f7342507da6c61eb870
+o
+?src/main/java/com/alkomprar/pageobjects/BusquedaPageObject.java,5\d\5d2b271907fb7790b8bbe2f3cd01791aae1e68b8
+O
+target/site/serenity/index.html,c\e\ce1d953599e56cfde85da6acfdbbb722b0c73490
